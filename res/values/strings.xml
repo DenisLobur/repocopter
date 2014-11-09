@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">repocopter</string>
+    <string name="app_name">Launcher</string>
+    <string name="animation_name">Animation</string>
+    <string name="draw_name">Draw</string>
+
 </resources>
